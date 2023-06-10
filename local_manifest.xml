@@ -13,7 +13,7 @@
 	<project path="kernel/realme/RMX1821" name="kernel_realme_RMX1821" revision="Q" remote="crimzxd" />
 	
   <!-- Addons -->
-  <project path="vendor/mediatek-ims" name="vendor_mediatek-ims" revision="twelve" remote="crimzxd" />
+        <project path="vendor/mediatek-ims" name="vendor_mediatek-ims" revision="twelve" remote="crimzxd" />
   
   <!--Patches-->
 	<remove-project name="build" />
